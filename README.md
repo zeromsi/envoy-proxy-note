@@ -22,3 +22,6 @@ A group of hosts that coordinate to provide a consistent network topology. In th
 Out of band realtime configuration system deployed alongside Envoy. Configuration settings can be altered that will affect operation without needing to restart Envoy or change the primary configuration.
 
 https://www.youtube.com/watch?v=40gKzHQWgP0
+
+https://www.youtube.com/watch?v=D0cuv1AEftE
+
